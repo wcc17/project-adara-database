@@ -1,0 +1,4 @@
+#need to make a script out of this, too lazy to look up for now
+create_database.sql
+create_customer_table.sql
+create_device_table.sql
