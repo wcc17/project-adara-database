@@ -1,0 +1,2 @@
+create user 'dbuser'@'localhost' identified by '4TN6G*3+z}cNm,/}7nku2QTw/dR9e.6.,3DRC4m8'; -- Creates the user
+grant all on adara.* to 'dbuser'@'localhost'; -- Gives all the privileges to the new user on the newly created database
